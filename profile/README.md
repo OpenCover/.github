@@ -12,6 +12,6 @@ Though I don't use .NET nowadays I know of teams using it to test .NET Full Fram
 
 # Project Naming
 
-Using `Cover` was a fairly obvious starting point for a code-coverage tool. There is a pattern of .NET tools using the prefix `N` for tools but there was already a commercial code-coverage tool called NCover(*), so taking inspiration from a UK collegue and his [OpenWrap](https://serialseb.com/blog/2010/10/20/creating-a-new-project-with-openwrap/) tool and that the project was open source, I adpted the prefix `Open` and so `OpenCover` was born.
+Using `Cover` was a fairly obvious starting point for a code-coverage tool. There is a pattern of .NET tools using the prefix `N` for tools but there was already a commercial code-coverage tool called NCover(*), so taking inspiration from a UK collegue and his [OpenWrap](https://serialseb.com/blog/2010/10/20/creating-a-new-project-with-openwrap/) tool and that the project was open source, I also adopted the prefix `Open` and so `OpenCover` was born.
 
 (*) also started off as open source, but later went commercial and was the trigger, so I believe, that caused the original authors to create [PartCover](https://sourceforge.net/projects/partcover/).
