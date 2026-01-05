@@ -4,7 +4,7 @@ This is the Github organisation for the code-coverage tool called OpenCover, a c
 
 # Brief History
 
-OpenCover was created in 2011 to create a code-coverage tool for the .NET platform that would support both 32 and 64 bit applications running on Windows OSs ([read more...](https://blog.many-monkeys.com/posts/open_cover_first_beta_release/)) after I got frustrated trying to upgrade [PartCover](https://sourceforge.net/projects/partcover/) to be both 32 and 64 bit cabable.
+OpenCover was created in 2011 to create a code-coverage tool for the .NET platform that would support both 32 and 64 bit applications running on Windows OSs ([read more...](https://blog.many-monkeys.com/posts/open_cover_first_beta_release/)) after I got frustrated trying to upgrade [PartCover](https://sourceforge.net/projects/partcover/) to be both 32 and 64 bit capable.
 
 We decided to stop development in 2021 after our priorities changed and that we wouldn't be able to support the effort required to perform the major uplift to support .NET Core ([read more...](https://blog.many-monkeys.com/posts/night-night-opencover/)). 
 
